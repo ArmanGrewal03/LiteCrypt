@@ -2,7 +2,7 @@
 
 **LiteCrypt** is a lightweight educational block cipher for **file encryption and decryption**. Inspired by AES, it uses 2-byte blocks with nibble substitution, row shifts, MixColumns in GF(2⁴), and a simple key schedule.  
 
-⚠️ This project is for learning purposes only.  
+This project is for learning purposes only.  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Build & Run  
+## Build & Run  
 
 ### Compile
 ```bash
